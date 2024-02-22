@@ -20,7 +20,7 @@ const HelpAndSupport = () => {
       <div>
         <TopNav   className='' />
       </div>
-      <div className="pt-24 z-10">
+      <div className="pt-24 z-10"> 
         <div className="bg-[#37718E] text-white w-full ">
           <div className="z-10">
             <h2 className="font-extrabold pt-5 pl-7">Help & Support</h2>

@@ -63,7 +63,7 @@ const Login = () => {
             <div className="container mt-5">
                 <section className="d-flex justify-content-between">
                     <div className="left_data" style={{ width: "100%" }}>
-                        <h2 className="text-center col-lg-6">Login</h2>
+                        <h2 className="text-center col-lg-6">Signin </h2>
                         <Form onSubmit={addData}>
                             <Form.Group className="mb-3 col-lg-6" controlId="formBasicEmail">
                                 <Form.Control

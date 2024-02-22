@@ -75,7 +75,7 @@ const Loginsignout = () => {
                                 {/* Add validation message for email if needed */}
                             </Form.Group>
                             <Form.Group className="mb-3 col-lg-6" controlId="formBasicDate">
-                                <Form.Control onChange={getData} name='date' type="date" placeholder='Enter date' />
+                                <Form.Control onChange={getData} name='date' type="date" placeholder='Enter date ' />
                                 {/* Add validation message for date if needed */}
                             </Form.Group>
                             <Form.Group className="mb-3 col-lg-6" controlId="formBasicPassword">
