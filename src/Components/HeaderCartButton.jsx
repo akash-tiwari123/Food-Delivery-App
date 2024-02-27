@@ -12,8 +12,8 @@ const HeaderCartButton = () => {
       <Link to='/cart' className=' no-underline'>
       <button className='bg-orange-700 text-white hidden md:flex items-center py-2 rounded-full'>
             <BsFillCartFill size={20}/>
-            <span>Cart</span>
-            <span className='ml-3'>{num}</span>
+            <span className='ml-1'>Cart</span>
+            <sup className='ml-1 text-[17px]'>{num}</sup>
         </button>
       </Link>
     </div>

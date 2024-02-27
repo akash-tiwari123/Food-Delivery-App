@@ -16,8 +16,9 @@ const Cart = () => {
     return (
       <>
         <TopNav />
-        <div className=" pt-28  text-center">
-          <h1>Add Items to cart</h1>
+        <div className=" pt-28  text-center text-gray-700">
+          <h2>Your Cart is Empty</h2>
+          <p>You can go to home page to view more restaurants.</p>
         </div>
       </>
     );
@@ -46,7 +47,7 @@ const Cart = () => {
                     <h3 className="">{item.title}</h3>
                   </td>
                   <td className="px-11">
-                    <p className="pt-3">{+(item.price).substring(1) * item.count}</p>
+                    <p className="pt-3">${+(item.price).substring(1) * item.count}</p>
                   </td>
                   <td className="px-11">
                     <button onClick={()=>decriseItem(item.id)} className=" rounded-md">-</button>

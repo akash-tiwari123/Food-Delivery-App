@@ -5,7 +5,7 @@ const Footer = () => {
     <div className='max-w-[1520px] m-auto px-4 py-2 bg-[#24262b]'>
         <div className=' py-16 px-4 grid lg:grid-cols-3 text-gray-300 gap-8'>
              <div>
-                <h1 className=' w-full text-3xl font-bold text-orange-500'>YumEats</h1>
+                <h1 className=' w-full text-3xl font-bold text-white'>Testy<span className="text-orange-700 font-bold">Food</span></h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, sunt, voluptatem architecto illum suscipit provident expedita voluptates iste quibusdam libero odio! Voluptate blanditiis, facere architecto incidunt quidem amet tempora rerum!
                 </p>
                 <div className=' flex justify-between md:w-[75%] my-6'>
@@ -18,7 +18,7 @@ const Footer = () => {
              </div>
              <div className=' lg:col-span-2 flex justify-between mt-6 ml-9 '>
                 <div>
-                    <h6 className=' font-medium  hover:underline'>About YumEats</h6>
+                    <h6 className=' font-medium  hover:underline'>About TestyFood</h6>
                     <ul className='ml-[-30px]'>
                         <li className='py-2 text-sm text-[#9b9b9b] cursor-pointer hover:scale-105 hover:text-orange-300'>Who We are</li>
                         <li className='py-2 text-sm text-[#9b9b9b] cursor-pointer hover:scale-105 hover:text-orange-300'>Work with Us</li>

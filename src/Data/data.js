@@ -253,7 +253,7 @@ export const topPicks = [
       },
       {
         id: 2,
-        question:'Will YumEats be accountable for quality/quantity?',
+        question:'Will TestyFood be accountable for quality/quantity?',
         ans:`Quantity and quality of the food is the restaurants' responsibility. However in case of issues with the quality or quantity, kindly submit your feedback and we will pass it on to the restaurant.`
       },
       {
@@ -294,13 +294,13 @@ export const topPicks = [
       {
         id: 1,
         question:'Terms of Use',
-        ans:'These terms of use (the "Terms of Use") govern your use of our website www.swiggy.in (the "Website") and our "YumEats" application for mobile and handheld devices (the "App"). The Website and the App are jointly referred to as the "Services"). Please read these Terms of Use carefully before you download, install or use the Services. If you do not agree to these Terms of Use, you may not install, download or use the Services. By installing, downloading or using the Services, you signify your acceptance to the Terms of Use and Privacy Policy (being hereby incorporated by reference herein) which takes effect on the date on which you download, install or use the Services, and create a legally binding arrangement to abide by the same.'
+        ans:'These terms of use (the "Terms of Use") govern your use of our website www.swiggy.in (the "Website") and our "TestyFood" application for mobile and handheld devices (the "App"). The Website and the App are jointly referred to as the "Services"). Please read these Terms of Use carefully before you download, install or use the Services. If you do not agree to these Terms of Use, you may not install, download or use the Services. By installing, downloading or using the Services, you signify your acceptance to the Terms of Use and Privacy Policy (being hereby incorporated by reference herein) which takes effect on the date on which you download, install or use the Services, and create a legally binding arrangement to abide by the same.'
 
       },
       {
         id: 2,
         question:'Privacy Policy',
-        ans:'We ( Bundl Technologies Private Limited, alias "YumEats" ) are fully committed to respecting your privacy and shall ensure that your personal information is safe with us. This privacy policy sets out the information practices of www.swiggy.com ("Website") including the type of information is collected, how the information is collected, how the information is used and with whom it is shared.'
+        ans:'We ( Bundl Technologies Private Limited, alias "TestyFood" ) are fully committed to respecting your privacy and shall ensure that your personal information is safe with us. This privacy policy sets out the information practices of www.swiggy.com ("Website") including the type of information is collected, how the information is collected, how the information is used and with whom it is shared.'
 
       },
       {
@@ -325,8 +325,8 @@ export const topPicks = [
       },
       {
         id: 4,
-        question:'Terms of Use for YumEats ON-TIME / Assured',
-        ans:`These terms of use (the "Terms of Use") that govern your use of our service YumEats ON-TIME / Assured  ("ON-TIME" / "Assured") on our website www.swiggy.in (the "Website") and our YumEats application for mobile and handheld devices (the "App"). The services on ON-TIME / Assured  available on our Website and the App are jointly referred to as the "On-Time Delivery". Please read these Terms of Use carefully before you use the Services. If you do not agree to these Terms of Use, you may not use the Services. By using the Services, you signify your acceptance to the Terms of Use and Privacy Policy (incorporated by reference herein) and creates a legally binding arrangement to abide by the same. `
+        question:'Terms of Use for TestyFood ON-TIME / Assured',
+        ans:`These terms of use (the "Terms of Use") that govern your use of our service TestyFood ON-TIME / Assured  ("ON-TIME" / "Assured") on our website www.swiggy.in (the "Website") and our TestyFood application for mobile and handheld devices (the "App"). The services on ON-TIME / Assured  available on our Website and the App are jointly referred to as the "On-Time Delivery". Please read these Terms of Use carefully before you use the Services. If you do not agree to these Terms of Use, you may not use the Services. By using the Services, you signify your acceptance to the Terms of Use and Privacy Policy (incorporated by reference herein) and creates a legally binding arrangement to abide by the same. `
 
       },
 
@@ -343,7 +343,7 @@ export const topPicks = [
       },
       {
         id: 2,
-        question:'What are the mandatory documents needed to list my restaurant on YumEats?',
+        question:'What are the mandatory documents needed to list my restaurant on TestyFood?',
         ans:`-  Copies of the below documents are mandatory
         -  FSSAI Licence OR FSSAI Acknowledgement
         -  Pan Card
@@ -353,14 +353,14 @@ export const topPicks = [
       },
       {
         id: 3,
-        question:'After I submit all documents, how long will it take for my restaurant to go live on YumEats?',
+        question:'After I submit all documents, how long will it take for my restaurant to go live on TestyFood?',
         ans:'After all mandatory documents have been received and verified it takes upto 7-10 working days for the onboarding to be completed and make your restaurant live on the platform.'
 
       },
       {
         id: 4,
         question:'What is this one time Onboarding fees? Do I have to pay for it while registering?',
-        ans:`This is a one-time fee charged towards the system & admin costs incurred during the onboarding process. It is deducted from the weekly payouts after you start receiving orders from YumEats.`
+        ans:`This is a one-time fee charged towards the system & admin costs incurred during the onboarding process. It is deducted from the weekly payouts after you start receiving orders from TestyFood.`
 
       },
       {
@@ -370,7 +370,7 @@ export const topPicks = [
       },
       {
         id: 6,
-        question:`How much commission will I be charged by YumEats?`,
+        question:`How much commission will I be charged by TestyFood?`,
         ans:'The commission charges vary for different cities. You will be able to see the commission applicable for you once the preliminary onboarding details have been filled.'
 
       },
